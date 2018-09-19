@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Noto</string>
+
+
+    <string name="hint_word">Word…</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+    <string name="btn_like">Like</string>
+    <string name="btn_comment">Comment</string>
+    <string name="btn_share">Share</string>
+    <string name="item_title" formatted="false">%s posted %s</string>
+    <string name="item_date" formatted="false">%s at %s</string>
+    <string name="item_likes" formatted="false">%s Likes</string>
+    <string name="author_name" formatted="false">Anonymous</string>
+    <string name="words">Words</string>
+    <string name="paging">Paging</string>
+</resources>
